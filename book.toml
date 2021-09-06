@@ -1,0 +1,9 @@
+[book]
+authors = ["Quentin Fortier"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Informatique commune 2ème année"
+
+[output.html]
+mathjax-support = true
