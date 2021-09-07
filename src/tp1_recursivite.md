@@ -1,3 +1,7 @@
-<div>
-<iframe id="pdf-js-viewer" src="/ipt2/web/viewer.html?file=%2Fipt2%2Ftp1_recursivite.pdf#zoom=page-width" title="webviewer" frameborder="0" width="100%" height="800"></iframe>
-</div>
+<<script type="text/javascript" src="utils.js"></script>
+
+<iframe id="pdf-js-viewer" src="" title="webviewer" frameborder="0" width="100%" height="800"></iframe>
+
+<script>
+    window.onload = () => document.getElementById("pdf-js-viewer").src = url("tp1_recursivite.pdf") + "#zoom=page-width";
+</script>
