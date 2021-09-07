@@ -1,5 +1,5 @@
 # Summary
 
-- [Programmer en Python avec Jupyter](https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html)
+- [Introduction](./0_introduction.md)
 - [Récursivité](./1_recursivite.md)
    - [TP 1 récursivité : exercices](./tp1_recursivite.md)
