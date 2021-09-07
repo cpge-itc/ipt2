@@ -1,9 +1,12 @@
 [book]
 authors = ["Quentin Fortier"]
-language = "fr"
+language = "en"
 multilingual = false
 src = "src"
 title = "Informatique commune 2ème année"
 
 [output.html]
-mathjax-support = true
+git-repository-url = "https://github.com/fortierq/ipt2"
+
+[output.html.print]
+enable = false
