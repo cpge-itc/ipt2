@@ -1,4 +1,4 @@
-// prefix = "/ipt2"
+prefix = "/ipt2"
 if (typeof prefix == "undefined") {
     prefix = ""
 }
