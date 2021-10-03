@@ -7,3 +7,4 @@
    - [Interrogation corrigée](1_recursivite/interro_cor.md)
 - [Algorithmes de tri](2_tris/tris.md)
    - [TP 1 algorithmes de tri](2_tris/tp1_tris.md)
+   - [TP 1 algorithmes de tri corrigé](2_tris/tp_tri_cor.md)
