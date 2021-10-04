@@ -31,6 +31,6 @@ with summary.open("w") as f:
         i = section.find("_")
         title = to_text(section[i+1:])
         f.write(f"- [{title[0].upper() + title[1:]}]({cours[section]})\n")
-        for td in tds[section]:
+        for td in sorted(tds[section]):
             title = to_text(td.stem)
             f.write(f"\t- [{title[:2].upper() + title[2:]}]({td})\n")
