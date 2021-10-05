@@ -7,3 +7,6 @@
 	- [TP2 fractales corrigé](1_recursivite/tp2_fractales_cor.md)
 - [Algorithmes de tri](2_algorithmes_de_tri/tris.md)
 	- [TP tris](2_algorithmes_de_tri/tp_tris.md)
+	- [TP tris corrigé](2_algorithmes_de_tri/tp_tris_cor.md)
+- [Piles](3_piles/piles.md)
+	- [TP piles](3_piles/tp_piles.md)
