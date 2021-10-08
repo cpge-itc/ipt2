@@ -27,7 +27,7 @@ def to_text(filename):
 summary = Path("SUMMARY.md")
 with summary.open("w") as f:
     f.write("# Summary\n\n")
-    f.write("- [Introduction](./0_introduction.md)")
+    f.write("- [Introduction](./0_introduction.md)\n")
     for section in cours:
         i = section.find("_")
         title = to_text(section[i+1:])
