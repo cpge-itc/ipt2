@@ -1,6 +1,7 @@
 # Summary
 
-- [Introduction](./0_introduction.md)- [Recursivite](1_recursivite/recursivite.md)
+- [Introduction](./0_introduction.md)
+- [Recursivite](1_recursivite/recursivite.md)
 	- [TP1 recursivite](1_recursivite/tp1_recursivite.md)
 	- [TP1 recursivite corrigé](1_recursivite/tp1_recursivite_cor.md)
 	- [TP2 fractales](1_recursivite/tp2_fractales.md)
