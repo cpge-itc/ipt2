@@ -11,3 +11,5 @@
 	- [TP tris](2_algorithmes_de_tri/tp_tris.md)
 - [Piles](3_piles/piles.md)
 	- [TP piles](3_piles/tp_piles.md)
+- [Tableaux numpy](3_tableaux_numpy/array.md)
+	- [TP tableaux](3_tableaux_numpy/TP_tableaux.md)
