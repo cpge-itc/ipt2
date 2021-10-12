@@ -1,13 +1,13 @@
 import jinja2
 from pathlib import Path
-from collections import defaultdict
+from collections import defaultdict, OrderedDict
 from pathlib import Path
 
 env = jinja2.Environment(loader=jinja2.FileSystemLoader('.'))
 template = env.get_template("template_pdf.md")
 
 tds = defaultdict(set)
-cours = {}
+cours = OrderedDict()
 
 files = list(Path(".").rglob("*_*/**/*.pdf"))
 files.sort()
