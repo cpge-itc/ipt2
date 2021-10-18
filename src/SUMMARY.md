@@ -12,3 +12,4 @@
 - [Tableaux numpy](3_tableaux_numpy/array.md)
 	- [TP tableaux](3_tableaux_numpy/TP_tableaux.md)
 - [Piles](4_piles/piles.md)
+	- [TP piles](4_piles/tp_piles.md)
