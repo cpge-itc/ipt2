@@ -11,5 +11,5 @@
 	- [TP tris](2_algorithmes_de_tri/tp_tris.md)
 - [Tableaux numpy](3_tableaux_numpy/array.md)
 	- [TP tableaux](3_tableaux_numpy/TP_tableaux.md)
-- [Matrices](4_matrices/matrices.md)
-	- [TP matrices](4_matrices/TP_matrices.md)
+- [Matrices et pivot de gauss](4_matrices_et_pivot_de_gauss/matrices_gauss.md)
+	- [TP matrice gauss](4_matrices_et_pivot_de_gauss/TP_matrice_gauss.md)
