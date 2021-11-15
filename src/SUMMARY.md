@@ -15,5 +15,7 @@
 - [Matrices et pivot de gauss](4_matrices_et_pivot_de_gauss/matrices_gauss.md)
 	- [TP matrice gauss](4_matrices_et_pivot_de_gauss/TP_matrice_gauss.md)
 	- [TP gauss corrigé](4_matrices_et_pivot_de_gauss/tp_gauss_cor.md)
-- [Piles](5_piles/piles.md)
-	- [TP piles](5_piles/tp_piles.md)
+- [Représentation des nombres](5_binaire/representation.pdf)
+    - [TP représentation des entiers](5_binaire/TP_binaire.pdf)
+<!-- - [Piles](5_piles/piles.md)
+	- [TP piles](5_piles/tp_piles.md) -->
