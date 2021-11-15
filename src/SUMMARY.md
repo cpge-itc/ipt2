@@ -15,5 +15,5 @@
 - [Matrices et pivot de gauss](4_matrices_et_pivot_de_gauss/matrices_gauss.md)
 	- [TP matrice gauss](4_matrices_et_pivot_de_gauss/TP_matrice_gauss.md)
 	- [TP gauss corrigé](4_matrices_et_pivot_de_gauss/tp_gauss_cor.md)
-- [Binaire](5_binaire/representation.md)
-	- [TP binaire](5_binaire/TP_binaire.md)
+- [Représentation des entiers](5_représentation_des_entiers/representation.md)
+	- [TP binaire](5_représentation_des_entiers/TP_binaire.md)
