@@ -17,3 +17,4 @@
 	- [TP gauss corrigé](4_matrices_et_pivot_de_gauss/tp_gauss_cor.md)
 - [Représentation des nombres](5_représentation_des_nombres/representation.md)
 	- [TP representation des entiers](5_représentation_des_nombres/TP_representation_des_entiers.md)
+- [DS 1 : corrigé](ds1_cor.pdf)
