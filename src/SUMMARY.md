@@ -19,3 +19,6 @@
 - [Représentation des nombres](5_représentation_des_nombres/representation.md)
 	- [TP representation des entiers](5_représentation_des_nombres/TP_representation_des_entiers.md)
 - [DS 1 corrigé](./ds1_cor.md)
+- [Méthode d'Euler](7_euler/euler.md)
+    - [TP Euler](7_euler/tp_euler.md)
+    - [TP Euler 2](7_euler/tp_euler2.md)
