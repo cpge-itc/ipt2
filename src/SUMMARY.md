@@ -22,3 +22,5 @@
 - [Méthode d'Euler](7_euler/euler.md)
     - [TP Euler](7_euler/tp_euler.md)
     - [TP Euler 2](7_euler/tp_euler2.md)
+- [SQL 1 : SELECT, Opérations ensemblistes, JOIN](8_sql/sql.md)
+    - [TP SQL Zoo](8_sql/tp_sql_zoo.md)
