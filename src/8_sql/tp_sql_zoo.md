@@ -7,3 +7,5 @@
 - Facultatif : [Table prix Nobel](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial) : jusqu'à question 10 incluse
 - [Table EURO 2012](https://sqlzoo.net/wiki/The_JOIN_operation) : jusqu'à question 12 inclusee
 - [Table films](https://sqlzoo.net/wiki/More_JOIN_operations) : jusqu'à question 11 incluse
+- [Table World avec aggrégation (SUM, MAX...)](https://sqlzoo.net/wiki/SUM_and_COUNT)
+- [Table client d'hôtel (compliqué...)](https://sqlzoo.net/wiki/Guest_House)
