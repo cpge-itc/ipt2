@@ -25,5 +25,5 @@
     - [TP Euler 2 corrigé](https://mybinder.org/v2/gh/fortierq/itc-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ffortierq%252Fipt2%26urlpath%3Dlab%252Ftree%252Fipt2%252Fsrc%252F7_euler%252Ftp_euler2.ipynb%26branch%3Dmaster)
 - [SQL](8_sql/sql.md)
     - [TP SQL Zoo](8_sql/tp_sql_zoo.md)
-- [Résolution d'équation f(x) = 0 (Newton et dichotomie)](9_newton/newton.md)
-    - [TP résolution d'équation](9_newton/tp_newton.md)
+<!-- - [Résolution d'équation f(x) = 0 (Newton et dichotomie)](9_newton/newton.md)
+    - [TP résolution d'équation](9_newton/tp_newton.md) -->
