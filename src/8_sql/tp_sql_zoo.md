@@ -1,3 +1,5 @@
+**Pour avoir le corrigé, ajouter ?answer=1 à la fin de l'URL**
+
 # TP sur SQL Zoo
 
 [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) est un site proposant des exercices de SQL en ligne.
