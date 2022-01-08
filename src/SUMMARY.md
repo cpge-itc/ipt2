@@ -26,6 +26,7 @@
 - [SQL](8_sql/sql.md)
     - [TP SQL Zoo](8_sql/tp_sql_zoo.md)
 - [DM](dm.md)
+    - [DM corrigé](dm_cor.md)
 - [Résolution d'équation f(x) = 0 (Newton et dichotomie)](9_newton/newton.md)
     - [TP résolution d'équation](9_newton/tp_newton.md)
 - [Pile](10_pile/pile.md)
