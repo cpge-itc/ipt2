@@ -1,5 +1,6 @@
 # Summary
 
+- [Binder](https://mybinder.org/v2/gh/fortierq/itc-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ffortierq%252Fipt2%26urlpath%3Dlab%252Ftree%252Fipt2%252Fsrc%26branch%3Dmaster)
 - [Introduction](./0_introduction.md)
 - [Recursivité](1_recursivite/recursivite.md)
 	- [TP1 récursivité](1_recursivite/tp1_recursivite.md)
