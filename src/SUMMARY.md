@@ -33,4 +33,5 @@
 - [Pile](10_pile/pile.md)
 	- [TP piles](10_pile/tp_piles.md)
 - [Sujet Centrale 2021 : lancer de rayons](11_tracer_rayons/cs_21.md)
+	- [Corrigé Centrale 2021](11_tracer_rayons/cs21_cor.md)
 - [Sujet Mines 2021 : chemins aléatoires](mines_21.md)
