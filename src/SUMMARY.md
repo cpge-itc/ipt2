@@ -33,4 +33,4 @@
 - [Pile](10_pile/pile.md)
 	- [TP piles](10_pile/tp_piles.md)
 - [Sujet Centrale 2021 : lancer de rayons](11_tracer_rayons/cs_21.md)
-- [Sujet Mines 2021 : chemins aléatoires](mines_21.pdf)
+- [Sujet Mines 2021 : chemins aléatoires](https://github.com/fortierq/ipt2/raw/master/src/mines_21.pdf)
