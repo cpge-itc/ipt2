@@ -33,6 +33,6 @@
 - [Pile](10_pile/pile.md)
 	- [TP piles](10_pile/tp_piles.md)
 - [Sujet Centrale 2021 : lancer de rayons](11_tracer_rayons/cs_21.md)
-	- [Corrigé Centrale 2021](https://mybinder.org/v2/gh/fortierq/itc-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ffortierq%252Fnotebooks%26urlpath%3Dlab%252Ftree%252Fnotebooks%252Fnb%252Fimage_processing%252Fray_tracing%252Fray_tracing.ipynb%26branch%3Dmaster)
+	- [Corrigé Centrale 2021](11_tracer_rayons/cs21_cor.md)
 - [Sujet Mines 2021 : chemins aléatoires](mines_21.md)
 - [Intégration numérique](12_integration/integration.md)
