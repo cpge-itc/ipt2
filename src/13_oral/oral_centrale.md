@@ -3,7 +3,7 @@ Dans ce TP, vous pouvez soit vous entraîner sur un sujet d'oral Centrale (conse
 # Oral math-info à Centrale
 
 À l'oral du concours Centrale, il y a une épreuve de math-info (Mathématiques 2). Voici un extrait du rapport :
-> Mathématiques 2 (avec Python)
+> **Mathématiques 2 (avec Python)**  
 > Chaque épreuve consiste en un exercice unique, en général volontairement long. Signalons cependant qu’il
 > n’est nullement nécessaire de résoudre l’exercice en totalité pour obtenir une excellente note. Le candidat
 > dispose d’une demi-heure de préparation pendant laquelle il a un accès libre à Python. Pendant la demi-
