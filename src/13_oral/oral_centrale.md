@@ -18,12 +18,13 @@ Dans ce TP, vous pouvez soit vous entraîner sur un sujet d'oral Centrale (conse
 > tous les cas, outre la maitrise des connaissances théoriques, l’examinateur prend grandement en compte
 > dans son évaluation la qualité de communication du candidat.
 
-La page https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/MP regroupe des exemples de sujets ainsi que des documents donnés aux candidats pendant la préparation :
+La page [https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/MP](https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/MP) regroupe des exemples de sujets ainsi que des documents donnés aux candidats pendant la préparation :
 
 > Le jury attend que les candidats soient familiarisés avec l'utilisation de Python (la distribution Pyzo est disponible sur les ordinateurs mis à disposition des candidats) et de ses bibliothèques numpy, scipy et matplotlib. Cependant, aucune connaissance de fonctions particulières n'est exigée ; les candidats auront à disposition, pendant l'épreuve, des documents listant un certain nombre de fonctions qui peuvent être utilisées pour résoudre les exercices proposés. Ces documents sont disponibles ci-dessous et couvrent la majorité des exercices, des indications complémentaires pourront figurer dans les sujets.
 
 **Exercices à faire :**
 
+- PC 2016 :
 ![](./oral_centrale.png)
 - [https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PSI/2015-057-PSI-Mat2.pdf](https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PSI/2015-057-PSI-Mat2.pdf)
 - [https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PC/2015-026-PC-Mat2.pdf](https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PC/2015-026-PC-Mat2.pdf)
