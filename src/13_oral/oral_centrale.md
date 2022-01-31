@@ -1,3 +1,7 @@
+Dans ce TP, vous pouvez soit vous entraîner sur un sujet d'oral Centrale (conseillé mais un peu difficile - posez-moi des questions!) ou de l'ancien concours ENSAM (si les sujets Centrale sont trop difficiles).
+
+# Oral math-info à Centrale
+
 À l'oral du concours Centrale, il y a une épreuve de math-info (Mathématiques 2). Voici un extrait du rapport :
 > Mathématiques 2 (avec Python)
 > Chaque épreuve consiste en un exercice unique, en général volontairement long. Signalons cependant qu’il
@@ -24,3 +28,7 @@ Exercices à faire :
 - https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PSI/2015-057-PSI-Mat2.pdf
 - https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PC/2015-026-PC-Mat2.pdf
 - https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/MP/2015-016-MP-Mat2.pdf
+
+# Oral info à l'ENSAM
+
+https://www.e3a-polytech.fr/wp-content/uploads/2019/12/oral_math_exo_types.pdf

@@ -36,4 +36,4 @@
 	- [Corrigé Centrale 2021](11_tracer_rayons/cs21_cor.md)
 - [Sujet Mines 2021 : chemins aléatoires](mines_21.md)
 - [Intégration numérique](12_integration/integration.md)
-- [Entraînement oral Centrale](13_oral/oral_centrale.md)
+- [Entraînement oral math-info](13_oral/oral_centrale.md)
