@@ -1,4 +1,4 @@
-Dans ce TP, vous pouvez soit vous entraîner sur un sujet d'oral Centrale (conseillé mais un peu difficile - posez-moi des questions!) ou de l'ancien concours ENSAM (si les sujets Centrale sont trop difficiles).
+Dans ce TP, vous pouvez soit vous entraîner sur un sujet d'oral Centrale (conseillé mais un peu difficile - posez-moi des questions!) ou de l'ancien concours ENSAM, en bas de cette page (si les sujets Centrale sont trop difficiles).
 
 # Oral math-info à Centrale
 
@@ -22,12 +22,12 @@ La page https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/MP r
 
 > Le jury attend que les candidats soient familiarisés avec l'utilisation de Python (la distribution Pyzo est disponible sur les ordinateurs mis à disposition des candidats) et de ses bibliothèques numpy, scipy et matplotlib. Cependant, aucune connaissance de fonctions particulières n'est exigée ; les candidats auront à disposition, pendant l'épreuve, des documents listant un certain nombre de fonctions qui peuvent être utilisées pour résoudre les exercices proposés. Ces documents sont disponibles ci-dessous et couvrent la majorité des exercices, des indications complémentaires pourront figurer dans les sujets.
 
-Exercices à faire :
+**Exercices à faire :**
 
 ![](./oral_centrale.png)
-- https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PSI/2015-057-PSI-Mat2.pdf
-- https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PC/2015-026-PC-Mat2.pdf
-- https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/MP/2015-016-MP-Mat2.pdf
+- [https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PSI/2015-057-PSI-Mat2.pdf](https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PSI/2015-057-PSI-Mat2.pdf)
+- [https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PC/2015-026-PC-Mat2.pdf](https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/PC/2015-026-PC-Mat2.pdf)
+- [https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/MP/2015-016-MP-Mat2.pdf](https://www.concours-centrale-supelec.fr/CentraleSupelec/SujetsOral/MP/2015-016-MP-Mat2.pdf)
 
 # Oral info à l'ENSAM
 
