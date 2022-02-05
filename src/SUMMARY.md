@@ -37,3 +37,4 @@
 - [Sujet Mines 2021 : chemins aléatoires](mines_21.md)
 - [Intégration numérique](12_integration/integration.md)
 - [Entraînement oral math-info](13_oral/oral_centrale.md)
+- [Correction Mines 2016 : épidémies](ds_mines16/mines16_cor.md) 
