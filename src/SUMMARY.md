@@ -42,3 +42,4 @@
 - [Entraînement oral math-info](13_oral/oral_centrale.md)
 - [Correction Mines 2016 : épidémies](ds_mines16/mines16_cor.md)
 - [X-ENS 2016 : collisions de particules](xens14_particules.md)
+- [Correction Mines-Pont 2019 : Autour des nombres premiers](minespont19_cor.md)
