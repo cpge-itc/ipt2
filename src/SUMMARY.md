@@ -43,4 +43,4 @@
 - [Correction Mines 2016 : épidémies](ds_mines16/mines16_cor.md)
 - [X-ENS 2016 : collisions de particules](xens14_particules.md)
 - [Correction Mines-Pont 2019 : Autour des nombres premiers](minespont19_cor.md)
-- [Corrigé Concours Blanc](cs21_cor.md)
+- [Corrigé Concours Blanc](cs17_cor.md)
